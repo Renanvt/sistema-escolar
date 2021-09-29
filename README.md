@@ -1,5 +1,3 @@
-# sistema-escolar
-
 # Tela de Login
 ![Login](img/login.png)
 
